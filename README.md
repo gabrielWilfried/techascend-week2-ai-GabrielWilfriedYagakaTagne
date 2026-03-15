@@ -29,7 +29,7 @@
 ## Analysis Performed
 
 * Loaded the dataset with `pandas` and inspected shape, data types, and null values
-* Printed the first 5 rows and full `.describe()` statistics
+* Printed the first 5 rows.
 * Calculated average, max, min, median, and standard deviation for `Exam_Score`
 
 
